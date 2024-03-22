@@ -1,0 +1,1 @@
+This a GitHub repo for practicing pandas for the 9th wave of CanTek students. We look at a few different data-sets, and we use some different data cleaning and processing techniques in jupyter notebooks
